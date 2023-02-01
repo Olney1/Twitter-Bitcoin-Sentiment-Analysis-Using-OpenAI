@@ -14,4 +14,4 @@ python-dotenv
 2. Run the script using `python sentiment.py`. The pie chart will be displayed.
 
 ## Note: 
-You can adjust the number of tweets retrieved by changing the value of count in the `api.search_tweets` function. You can also change the search word here to include other search terms such as BTC.
+You can adjust the number of tweets retrieved by changing the value of count in the `api.search_tweets` function. I have kept it deliberately low given the OpenAI API cost, but you could easily change this to 10,000 tweets for example. You can also change the search word here to include other search terms such as BTC. In order to capture tweets you will need elevated Twitter API access. This can be done via your Twitter developer console.
