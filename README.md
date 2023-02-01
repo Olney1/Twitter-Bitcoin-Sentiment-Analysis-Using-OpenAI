@@ -13,5 +13,5 @@ python-dotenv
 
 2. Run the script using `python sentiment.py`. The pie chart will be displayed.
 
-##Note: 
+## Note: 
 You can adjust the number of tweets retrieved by changing the value of count in the `api.search_tweets` function. You can also change the search word here to include other search terms such as BTC.
