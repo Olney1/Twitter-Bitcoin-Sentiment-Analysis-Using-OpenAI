@@ -9,14 +9,7 @@ python-dotenv
 
 
 ## Usage
-1. Create a .env file and store your Twitter API credentials and OpenAI API key in the following format:
-
-`consumer_key=YOUR_CONSUMER_KEY
-consumer_secret=YOUR_CONSUMER_SECRET
-access_token=YOUR_ACCESS_TOKEN
-bearer=YOUR_BEARER
-access_token_secret=YOUR_ACCESS_TOKEN_SECRET
-openai_api_key=YOUR_OPENAI_API_KEY`
+1. Create a .env file and store your Twitter API credentials and OpenAI API key.
 
 2. Run the script using `python sentiment.py`. The pie chart will be displayed.
 
