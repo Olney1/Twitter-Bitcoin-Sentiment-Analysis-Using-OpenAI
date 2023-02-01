@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis
-This code uses the Twitter API and OpenAI to analyze the sentiment of tweets containing "Bitcoin". The sentiment of each tweet is determined using OpenAI's Completion API and the results are displayed in a pie chart, showing the percentage of tweets that are positive, negative, or undetermined.
+This code uses the Twitter API and OpenAI to analyze the sentiment of Bitcoin tweets. The sentiment of each tweet is determined using OpenAI's Completion API and the results are displayed in a pie chart, showing the percentage of tweets that are positive, negative, or undetermined.
 
 ## Requirements
 tweepy,
